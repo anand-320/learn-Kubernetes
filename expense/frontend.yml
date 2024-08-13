@@ -5,4 +5,4 @@ metadata:
 Spec:
   containers:
     - name: frontend
-      image: nginx
+      image: docker push 942136769355.dkr.ecr.us-east-1.amazonaws.com/expense-frontend:latest
